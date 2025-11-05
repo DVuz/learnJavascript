@@ -1,0 +1,6 @@
+1. Javascript là gì ?
+Javascript là một ngôn ngữ lập trình đa năng, chủ yếu được sử dụng để tạo ra các trang web tương tác.
+Nó chạy trên trình duyệt web và cho phép các nhà phát triển thêm các tính năng động như hiệu ứng, xử lý sự kiện, và tương tác với người dùng. Ngoài ra,
+Javascript cũng có thể được sử dụng trên phía máy chủ thông qua môi trường Node.js.
+2. Javascript có phải là ngôn ngữ biên dịch không ?
+Không, Javascript không phải là ngôn ngữ biên dịch. Nó là một ngôn ngữ thông dịch, có nghĩa là mã nguồn Javascript được thực thi trực tiếp bởi trình duyệt
